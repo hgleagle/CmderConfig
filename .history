@@ -1,0 +1,353 @@
+dir
+ls
+ll
+ls -l
+dir
+ls
+d:
+cd "Program Files (x86)\cmder 1.1.4.1\
+.\Cmder.exe /REGISTER ALL
+ls
+ll
+pwd
+cd
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+clist
+cd "D:\workspace\IndoorLocation\code\LocationEngine"
+d:
+cd "D:\workspace\IndoorLocation\DevTools\package\RG-Cway-Base"
+export LANG=en_GB && make
+cd D:\cygwin
+mkdir /tmp
+cd bin\
+mkdir tmp
+ls
+chmod.exe a+rwx /tmp
+d:
+cd d:
+cd ../..
+f:
+cd F:\Program Files（x86）\VMware\VMware Workstation
+vmware-vdiskmanager.exe -x 25Gb "f:\My Virtual Machines\Ubuntu10.04.vmdk" 
+f:
+cd 11_1_PJ13\
+ls
+git clone git@192.168.5.72:u-boot
+route print
+route add 2.2.2.0 255.255.255.0 192.168.195.139
+route --help
+route add 2.2.2.0 mask 255.255.255.0 192.168.195.139 
+cd "D:\Program Files (x86)\RG-Cway-Base"
+dir
+d:
+./StartLocationClientConsole.bat
+StartLocationClientConsole.bat
+vi config\config-ls.xml 
+vim config\config-lc.xml 
+StartLocationClientConsole.bat
+python -V
+cd e:
+pwd
+e:
+cd lpwan\
+dir
+pwd
+git clone https://github.com/Lora-net/packet_forwarder.git
+ls
+ls packet_forwarder\
+ls packet_forwarder
+ll packet_forwarder\
+cd packet_forwarder\
+ls
+git branch
+cd ..
+ls
+git clone https://github.com/Lora-net/LoRaMac-node.git
+ls
+git clone https://github.com/Lora-net/lora_gateway.git
+ls
+ls lora_gateway\
+git clone https://github.com/TheThingsNetwork/ttn.git
+ls
+ls ttn\
+ls ttn
+cd ttn\
+ls
+cd ..
+ls
+git clone https://github.com/ttn-zh/ic880a-gateway.git
+ls
+cd ic880a-gateway\
+ls
+ll
+cd ..
+git clone https://github.com/NPLink/NPLink-Mote-STM32-SDK.git
+ls
+git clone https://github.com/NPLink/NPLink-Cloud-SDK.git
+ls
+git clone https://github.com/mirakonta/OpenWrt-lora.git
+ls
+git clone https://github.com/CongducPham/LowCostLoRaGw.git
+git clone https://github.com/tftelkamp/single_chan_pkt_fwd.git
+ssh 172.18.34.155
+ssh oot@172.18.34.155
+ssh root@172.18.34.155
+ping 192.168.195.255
+ping 192.168.195.244
+ping 192.168.195.243
+telnet 192.168.195.244
+dns lookup cn1.loriot.io
+dnslookup cn1.loriot.io
+ssh 192.168.195.243
+telnet 192.168.195.243
+tracert cn1.loriot.io
+ping cn1.loriot.io
+telnet 54.223.38.129
+telnet 54.223.38.129 1780
+telnet 54.223.38.129 1680
+ping router.cn.staging.thethings.network
+ping 211.98.70.226
+telnet 211.98.70.226 1700
+ping router.cn.thethings.network
+ping router.eu.thethings.network
+go version
+go
+go version
+e:
+cd golang_repo\
+cd src\HelloWorld\
+ls
+go run main.go 
+rm HelloWorld.exe 
+ls
+go build main.go 
+ls
+go run main.go 
+main.exe 
+go get 
+godoc fmt
+cd ..
+go get github.com/spf13/viper
+echo $GOPATH
+echo GOPATH
+ll
+la
+d:
+cd "Program Files\cmder 1.1.4.1\
+ls
+vi config\aliases 
+vim config\aliases 
+sshvps
+ls
+e:
+cd PythonWork\
+ls
+HelloWorld.py 
+python
+HelloWorld.py 
+ssh 192.168.206.169
+e:
+cd ..
+ssh rxhf@192.168.206.169
+ssh rxhf@192.168.195.230
+实施
+vpsssh
+sshvps
+e:
+ls
+cd openwrt_repo\
+git clone https://github.com/openwrt/linux.git
+git config
+git config -l
+git config --get http.postBuffer
+git repack -a -f -d --window=250 --depth=250
+ls
+cd openwrt\
+ls
+cd ..
+ls
+man git
+git --help
+git help -a
+git help repack
+git clone https://github.com/openwrt/linux.git
+ls
+ls linux\
+cd linux\
+ls
+ls drivers\spi\
+cd ../..
+ls
+cd lpwan\lora_gateway\
+ls
+git pull
+cd ..\packet_forwarder
+git pull
+ping 192.168.195.242
+ping 192.168.195.243
+ping 192.168.195.241
+ping 192.168.195.243
+ssh admin@192.168.195.243
+telnet 192.168.195.243
+git -version
+git --version
+e:
+cd linux-2.6.32.61\
+ls
+git config
+git help
+git --version
+git log
+cd ..
+ssh rxhf@192.168.195.230
+d:
+ls
+cd "Program Files\
+ls
+cd "cmder 1.1.4.1\
+ls
+vi config\.history 
+vim config\.history 
+vim config\aliases 
+cls
+sshrpi
+sshrpi
+ping 192.168.195.240
+sshrpi
+ping 192.168.195.230
+sshvps
+sshrpi
+ping 192.168.195.230
+sshrpi
+ls
+sshvps
+sshvps
+ping 172.18.34.155
+sshvps
+e:
+ls
+cd lpwan\
+ls
+ping 192.168.195.243
+telnet 192.168.195.243
+sshvps
+d:
+ls
+cd e:
+ls
+c:
+ls
+cd e:
+ls
+e:
+ls
+mkdir github
+cd github\
+git clone https://github.com/easwy/share.git
+ls
+ls share\
+cd share\
+ls
+cd ..
+ping 172.18.34.155
+sshvps
+ping 172.18.34.155
+sshvp
+sshvps
+ssh  -p 22 172.18.34.155
+e:
+ls
+d:
+ls
+ls code\
+e:
+ls
+cd lpwan\
+ls
+cd single_chan_pkt_fwd\
+ls
+git status
+git log
+ls
+git --help
+git status
+git show 
+git status
+cd ..
+git clone https://github.com/CongducPham/tutorials.git
+telnet 192.168.195.243
+ls
+cd single_chan_pkt_fwd\
+ls
+vim base64.c 
+vim ~/.vimrc
+sshrpi
+cd single_chan_pkt_fwd\
+vim base64.c 
+vim ~/.vimrc
+sshrpi
+sshvps
+d:
+cd d:/
+l
+ls
+la
+la
+d:
+cd d:
+cd d:\
+ll
+where ls
+ls
+ls
+where ls
+ls
+where ls
+vim .gitconfig 
+d:
+vim ~\.gitconfig 
+cd ../..
+ls
+ls vendor\
+cat vendor\profile.ps1 
+vim vendor\clink.lua 
+d:
+cd d:/
+l
+ls
+la
+la
+where ls
+cd d:
+cd d:\
+ll
+javac
+cd 专利
+cd ..
+aliase
+alias
+history
+ls
+d:
+cmderr
+start .
+@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" &amp;&amp; SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+vim config\user-aliases.cmd 
+rm CmderConfig\
+rm -rf CmderConfig\
+mv config\ config-bk
+git clone https://github.com/hgleagle/CmderConfig.git config
+cmderr
+sshvps
+rm -rf config
+git clone -h
+git clone https://github.com/hgleagle/CmderConfig.git 
+ ls CmderConfig\
+git clone https://github.com/hgleagle/CmderConfig/tree/master/config
+mv CmderConfig\config config
+ls config
+rm rf CmderConfig\
+rm rf CmderConfig
+rm -rf CmderConfig
+ls
